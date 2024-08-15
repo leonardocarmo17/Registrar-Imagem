@@ -1,5 +1,5 @@
 # Registrar Imagem
- Registrar e salvar as imagens enviadas pelo usuário
+ Registre e salve as imagens enviadas pelos usuários.
 ---
 ***Link de Acesso:*** [Clique Aqui](http://exemplodeprojeto2.000.pe/)
 
